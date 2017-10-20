@@ -1,0 +1,8 @@
+Sadovaya,6 5 7
+Victory,58 -8 9
+Karastoyznova,97 16 -3
+Nab,12 -8 -10
+Downing,9 45 -56
+Ultra,22 -68 23
+Kozlova,79 52 48
+Bystrova,44 -28 -19

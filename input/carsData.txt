@@ -1,0 +1,8 @@
+Jackson 1 1 Azgur,3 50
+Lagerd 10 13 Trade,7 61
+Brown -6 7 Malevich,14 53
+Rocket -5 5 Stahansky,8 47
+Johnatan 3 -5 Gursky,7 48
+Kardi 7 -7 Valori,46 58
+Mickelson -2 -4 Panamarenko,8 39
+Ivanov -13 -13 Baraidov,65 67
